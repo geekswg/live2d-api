@@ -1,6 +1,6 @@
 {
   "name": "live2dapi-pub",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "geekswg自建的live-2d api",
   "main": "index.js",
   "scripts": {
