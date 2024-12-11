@@ -1,6 +1,6 @@
 # Live2D_API
 
-> 个人自建的`live2d API`，用于网页端引入看板娘。
+> 个人自建的`live2d API`，用于网页端引入看板娘。 
 
 ## 前言 To start with
 
